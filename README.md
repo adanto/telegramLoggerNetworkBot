@@ -4,6 +4,7 @@ Well, this is a bot that is "constantly" making nmaps (with some time before pet
 
 ## How to use
 
+- `git clone https://github.com/adanto/telegramLoggerNetworkBot.git`
 - `touch log`
 - Enter your bot api's in line 129 and conversation id in 130
 - `python logger.py`
