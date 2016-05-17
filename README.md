@@ -1,6 +1,6 @@
 # telegramLoggerNetworkBot
 
-Well, this is a bot that is "constantly" making maps (with some time before petitions), to see who is online in a local network and which ports has open. If a new ip is being used or another one stops being used, or if an known host closes or opens a port, it sends a message to your telegram conversation with the new info.
+Well, this is a bot that is "constantly" making maps (with some time before petitions), to see who is online in a local network and which ports has open. If a new ip is being used or another one stops being used, or if a known host closes or opens a port, it sends a message to your telegram conversation with the new info.
 
 ## How to use
 
